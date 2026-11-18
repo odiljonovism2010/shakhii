@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo, useContext, createContext } from "react";
 import { createRoot } from "react-dom/client";
-import "./app.css";
+import "./App.css";
 
 /* ---------- storage ---------- */
 function load(k, d) {
